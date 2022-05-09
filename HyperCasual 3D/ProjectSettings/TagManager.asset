@@ -5,11 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Collider
+  - Obstacle
+  - Light
+  - Goal
+  - Camera
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Camera
   - Water
   - UI
   - Glass Pieces
